@@ -1,4 +1,4 @@
-** Aim and Research 
+**Aim and Research **
 This research aims to create an advanced deep learning system that can detect spoilage in fresh 
 produce through pattern recognition in images. A primary objective of this study is to determine 
 how accurately deep learning models can identify the various degrees of spoilage in fruit and 
